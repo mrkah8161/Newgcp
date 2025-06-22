@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167",
+            "id": "44bdbbe6-dd38-4a26-8141-7cf0a1812e9c",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ragnarservers"
+          "path": "/mrking"
         }
       }
     }
